@@ -1,0 +1,36 @@
+body{
+    background-color: #E5E5E5;
+}
+.background-c{
+    background-color: white;
+    border-radius: 5px;
+}
+.logo{
+    width: 40px;
+    height: 45px;
+}
+.profile{
+    height: 30px;
+}
+.player img{
+    width: 56px;
+    height: 56px;
+}
+.no-gutters img{
+    width: 120px;
+    height: 90px;
+}
+.img-con img{
+    width: 120px;
+    height: 90px;
+}
+.border-style{
+    border-top: 1px solid lightgray;
+}
+.course-img img{
+    width: 224;
+    height: 104;
+}
+.course-con{
+    margin-bottom: 50px;
+}
